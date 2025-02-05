@@ -3,20 +3,20 @@ import { motion } from 'framer-motion'
 const properties = [
   {
     title: 'Luxury Villa',
-    price: '$2.5M',
-    location: 'Beverly Hills, CA',
+    price: 'KES 75M',
+    location: 'Karen, Kajiado County',
     image: 'https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf'
   },
   {
     title: 'Modern Penthouse',
-    price: '$1.8M',
-    location: 'New York, NY',
+    price: 'KES 40M',
+    location: 'Kilimani, Nairobi County',
     image: 'https://images.unsplash.com/photo-1502005229762-cf1b2da7c97d'
   },
   {
     title: 'Beachfront Estate',
-    price: '$3.2M',
-    location: 'Miami, FL',
+    price: 'KES 60M',
+    location: 'Kilifi, Kilifi County',
     image: 'https://images.unsplash.com/photo-1572120360610-d971b9d7767c'
   }
 ]
