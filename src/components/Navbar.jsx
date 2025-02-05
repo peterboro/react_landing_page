@@ -6,8 +6,8 @@ export default function Navbar({ darkMode, setDarkMode }) {
 
   const navLinks = [
     { name: 'Home', href: '#' },
-    { name: 'Featured Properties', href: '#featured properties' },
-    { name: 'Why Us', href: '#why choose us' },
+    { name: 'Featured Properties', href: '#featuredproperties' },
+    { name: 'Why Us', href: '#whychooseus' },
     { name: 'Testimonials', href: '#Testimonials' },
     { name: 'Contact', href: '#Contact' }
   ]

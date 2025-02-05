@@ -20,8 +20,8 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Navigation</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#featured properties" className="hover:text-accent transition">Properties</a></li>
-              <li><a href="#why choose us" className="hover:text-accent transition">Why Choose Us</a></li>
+              <li><a href="#featuredproperties" className="hover:text-accent transition">Properties</a></li>
+              <li><a href="#whychooseus" className="hover:text-accent transition">Why Choose Us</a></li>
               <li><a href="#Contact" className="hover:text-accent transition">Contact</a></li>
             </ul>
           </div>
