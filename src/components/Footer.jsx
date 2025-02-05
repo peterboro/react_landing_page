@@ -11,18 +11,18 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm">
-              <li>📞 (555) 123-4567</li>
+              <li>📞 (+254) 7123-45678</li>
               <li>📧 info@petesalhomes.com</li>
-              <li>🏢 123 Luxury Ave, NY</li>
+              <li>🏢 123 Luxury Ave, Nairobi</li>
             </ul>
           </div>
 
           <div>
             <h4 className="text-white font-semibold mb-4">Navigation</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="hover:text-accent transition">Properties</a></li>
-              <li><a href="#" className="hover:text-accent transition">About Us</a></li>
-              <li><a href="#" className="hover:text-accent transition">Contact</a></li>
+              <li><a href="#featured properties" className="hover:text-accent transition">Properties</a></li>
+              <li><a href="#why choose us" className="hover:text-accent transition">Why Choose Us</a></li>
+              <li><a href="#Contact" className="hover:text-accent transition">Contact</a></li>
             </ul>
           </div>
 
@@ -37,7 +37,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-gray-700 text-center text-sm">
-          <p>© 2023 Petesal Homes. All rights reserved.</p>
+          <p>© 2025 Petesal Homes. All rights reserved.</p>
         </div>
       </div>
     </footer>
