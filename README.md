@@ -11,6 +11,8 @@ The React Landing Page provides a user-friendly interface for browsing propertie
 - Responsive Design
 - Easy Navigation
 
+## [LIVE DEMO](https://petesalhomes.netlify.app/)
+
 ## Installation
 To set up the project locally, follow these steps:
 
