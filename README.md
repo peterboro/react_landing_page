@@ -1,8 +1,47 @@
-# React + Vite
+# React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a landing page built with React and Vite, showcasing various properties and features.
 
-Currently, two official plugins are available:
+## Description
+The React Landing Page provides a user-friendly interface for browsing properties, with features such as verified listings, testimonials, and a contact form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Featured Properties
+- User Testimonials
+- Responsive Design
+- Easy Navigation
+
+## Installation
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/peterboro/react_landing_page.git
+   cd react_landing_page
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+To run the project in development mode, use the following command:
+```bash
+npm run dev
+```
+
+To build the project for production, use:
+```bash
+npm run build
+```
+
+## Dependencies
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
+
+## License
+This project is licensed under the MIT License.
